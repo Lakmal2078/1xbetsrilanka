@@ -206,7 +206,7 @@ function HomePage() {
           </button>
           <div className="mt-8 bg-black/30 p-4 rounded-lg inline-block">
             <p className="font-bold">
-              Official Promo Code: <span className="text-yellow-400">VGS</span>
+              Official Promo Code: <span className="text-yellow-400">VGSL</span>
             </p>
           </div>
         </div>
